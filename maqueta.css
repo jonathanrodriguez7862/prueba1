@@ -1,0 +1,35 @@
+header{
+    background-color: #fcebbe;
+
+}
+main{
+    background-color: #3942bf;
+
+}
+footer{
+    background-color: #754c00;
+
+}
+h1{
+    background-color: #e6e6e6;
+
+}
+h2{
+    background-color: #666666;
+
+}
+p{
+    background-color: #f6fe00;
+}
+
+
+div{
+    background-color: #8cc63f;
+}
+article{
+    border:  #f79300;
+}
+section{
+    border: dashed 2px #009020;
+    display: flex;
+}
